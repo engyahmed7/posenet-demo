@@ -6,6 +6,7 @@
         "test": "tests"
       },
     "scripts": {
+        "production": "webpack --mode production",
         "build": "webpack",
         "dev": "vite"
     },
