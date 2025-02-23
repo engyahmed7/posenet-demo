@@ -116,5 +116,5 @@ This application integrates several key libraries and frameworks:
 -   **[PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)**, a lightweight and efficient model for pose detection.
 -   **[body-measure](https://github.com/AI-Machine-Vision-Lab/body-measure)**, a repository that provides body measurement functionalities integrated into the app.
 
-These tools and frameworks enabled the development of Sizely App and contributed significantly to its capabilities in real-time pose detection and analysis.
-# poseNet-demo
+These tools and frameworks enabled the development of Pose Detection App and contributed significantly to its capabilities in real-time pose detection and analysis.
+
